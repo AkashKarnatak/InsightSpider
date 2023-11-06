@@ -1,0 +1,7 @@
+openai_api_key: "YOUR_OPENAI_API_KEY"
+max_depth: 2 # the maximum depth the scraper will follow links from the starting page on a website.
+scrape_urls:
+  - https://example.com
+  - https://example2.com
+  - https://example3.com
+  - https://example4.com
